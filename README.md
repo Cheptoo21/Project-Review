@@ -9,7 +9,7 @@
 
 <!-- MAIN HEADING -->
 
-  <h3><b>Portfolio</b></h3>
+  <h3><b>Project Review</b></h3>
 
 </div>
 
@@ -33,7 +33,7 @@
 - [📝 License](#license)
 
 <!-- INTRO -->
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Project Review <a name="about-project"></a>
 
 I created my portfolio using HTML and CSS. 
 
