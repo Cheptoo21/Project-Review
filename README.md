@@ -18,7 +18,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
+   - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -95,7 +95,7 @@ Clone this repository to your desired folder using:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Cheptoo21/Portfolio-setup-and-mobile-first.git
+  git clone https://github.com/Cheptoo21/Project-Review.git
 ```
 <!-- INSTALL -->
 
